@@ -20,9 +20,8 @@ title                    : MOSAIC
 title_separator          : "-"
 subtitle                 : Modeling & Simulation in Chemistry
 name                     : "Erik C. Neyts"
-description              : "Webpage for Erik Neyts, professor at PLASMANT research group, Department of Chemistry, University of Antwerp.
-  We work on molecular dynamics simulations of nano materials, astrochemistry and for environmental applications,
-  including plasma-catalysis."
+description              : "Webpage of Erik C. Neyts and the Mosaic research team. Professor at the PLASMANT research group, Department of Chemistry, University of Antwerp.
+  We work on molecular dynamics simulations of nano materials, astrochemistry, and plasma-surface interactions, including plasma-catalysis."
 url                      : "https://mosaic-uantwerp.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -262,6 +261,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false # true
       share: true
       related: true
