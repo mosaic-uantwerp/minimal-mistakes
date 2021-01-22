@@ -1,0 +1,21 @@
+  
+Erik C. Neyts:
+  name   : "Erik C. Neyts"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Full professor, Dept. Chemistry, University of Antwerp"
+  links:
+    - label: "UAntwerp"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.uantwerpen.be/en/staff/erik-neyts/"
+    - label: "Orcid"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-3360-3196"
+
+
+Mosaic:
+  name        : "Mosaic"
+  avatar      : "/assets/images/logo-frame.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:erik.neyts@uantwerpen.be"
