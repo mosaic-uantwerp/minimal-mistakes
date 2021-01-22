@@ -1,5 +1,6 @@
 ---
 permalink: /publications/
+author: "Mosaic"
 title: "Publications"
 ---
 
