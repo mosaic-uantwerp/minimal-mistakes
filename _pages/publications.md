@@ -1,9 +1,9 @@
 ---
 permalink: /publications/
 author: "Mosaic"
+author_profile: true
 title: "Publications"
 hidden: true
-author_profile: true
 tagline: ""
 header:
   overlay_color: "#5e616c"
