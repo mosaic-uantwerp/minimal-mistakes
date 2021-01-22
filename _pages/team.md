@@ -1,7 +1,7 @@
 ---
 author: Mosaic
 layout: single
-title: "Team"
+title: "Mosaic Team"
 permalink: /team/
 hidden: true
 author_profile: true
